@@ -26,9 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/irhavwjM.gif' title='2024 Games Walkthrough' width='' alt='2024 Games Walkthrough' />
+https://github.com/ekjacinto/community-board/assets/109046831/863cc796-600b-43ac-886a-c1072c1d511c
 
-GIF created with [Veed](https://www.veed.io/convert/mp4-to-gif)
+Video created with [Veed](https://www.veed.io/tools/video-compressor/mp4-compressor)
 
 ## Notes
 
